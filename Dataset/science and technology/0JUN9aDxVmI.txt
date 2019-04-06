@@ -1,1 +1,0 @@
-Logistics, course topics, word RAM, predecessor, van Emde Boas, y-fast tries.Please see Problem 1 of Assignment 1at http://people.seas.harvard.edu/~minil... fora corrected analysis of the space complexity of van Emde Boas trees
